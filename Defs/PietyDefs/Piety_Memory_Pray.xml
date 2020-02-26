@@ -3,33 +3,33 @@
   <ReligionsOfRimworld.PietyDef>
     <defName>RoR_PietyPraySmall</defName>
     <label>pray</label>
-    <description>small piety increasing</description>
+    <description>small piety increase</description>
     <durationDays>1</durationDays>
     <stages>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
+        <description>I do this because I'm supposed to</description>
         <pietyOffset>1</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
+        <description>I feel more connected to my god</description>
         <pietyOffset>3</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
+        <description>It's good to show my devotion</description>
         <pietyOffset>5</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
+        <description>Our connection is sacred</description>
         <pietyOffset>7</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
-        <pietyOffset>15</pietyOffset>
+        <description>I speak to the divine and they talk back</description>
+        <pietyOffset>9</pietyOffset>
       </li>
     </stages>
   </ReligionsOfRimworld.PietyDef>
@@ -37,33 +37,33 @@
   <ReligionsOfRimworld.PietyDef>
     <defName>RoR_PietyPrayAverage</defName>
     <label>pray</label>
-    <description>average piety increasing</description>
-    <durationDays>1</durationDays>
+    <description>average piety increase</description>
+    <durationDays>3</durationDays>
     <stages>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
-        <pietyOffset>3</pietyOffset>
+        <description>I feel like I could be a part of something bigger than myself</description>
+        <pietyOffset>2</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
+        <description>My faith will be rewarded</description>
         <pietyOffset>5</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
-        <pietyOffset>7</pietyOffset>
+        <description>I feel truly blessed</description>
+        <pietyOffset>8</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
-        <pietyOffset>10</pietyOffset>
+        <description>I am connected to the celestial</description>
+        <pietyOffset>11</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
-        <pietyOffset>15</pietyOffset>
+        <description>I have been annointed by the divine</description>
+        <pietyOffset>14</pietyOffset>
       </li>
     </stages>
   </ReligionsOfRimworld.PietyDef>
@@ -71,33 +71,33 @@
   <ReligionsOfRimworld.PietyDef>
     <defName>RoR_PietyPrayGreat</defName>
     <label>pray</label>
-    <description>large piety increasing</description>
-    <durationDays>1</durationDays>
+    <description>large piety increase</description>
+    <durationDays>5</durationDays>
     <stages>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
-        <pietyOffset>5</pietyOffset>
+        <description>This feels good</description>
+        <pietyOffset>3</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
-        <pietyOffset>7</pietyOffset>
+        <description>These words are beautiful</description>
+        <pietyOffset>8</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
-        <pietyOffset>15</pietyOffset>
+        <description>The words of the divine are sacred to me</description>
+        <pietyOffset>12</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
-        <pietyOffset>15</pietyOffset>
+        <description>These words are hallowed</description>
+        <pietyOffset>17</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
-        <description>feels good</description>
-        <pietyOffset>20</pietyOffset>
+        <description>I'm in a state of total awe</description>
+        <pietyOffset>21</pietyOffset>
       </li>
     </stages>
   </ReligionsOfRimworld.PietyDef>

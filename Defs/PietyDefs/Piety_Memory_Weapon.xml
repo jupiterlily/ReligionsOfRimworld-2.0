@@ -4,31 +4,31 @@
     <defName>RoR_PietyWeaponKillBad</defName>
     <label>weapon kill</label>
     <description>decrease piety</description>
-    <durationDays>1</durationDays>
+    <durationDays>2</durationDays>
     <stages>
       <li>
-        <label>kill with a {0}</label>
-        <description>sad</description>
+        <label>killed with a {0}</label>
+        <description>Oops</description>
         <pietyOffset>-3</pietyOffset>
       </li>
       <li>
-        <label>kill with a {0}</label>
-        <description>sad</description>
-        <pietyOffset>-5</pietyOffset>
+        <label>killed with a {0}</label>
+        <description>My god will be angry</description>
+        <pietyOffset>-6</pietyOffset>
       </li>
       <li>
-        <label>kill with a {0}</label>
-        <description>sad</description>
-        <pietyOffset>-7</pietyOffset>
+        <label>killed with a {0}</label>
+        <description>I will be forsaken</description>
+        <pietyOffset>-9</pietyOffset>
       </li>
       <li>
-        <label>kill with a {0}</label>
-        <description>sad</description>
-        <pietyOffset>-10</pietyOffset>
+        <label>killed with a {0}</label>
+        <description>I have disrespected the divine</description>
+        <pietyOffset>-12</pietyOffset>
       </li>
       <li>
-        <label>kill with a {0}</label>
-        <description>sad</description>
+        <label>killed with a {0}</label>
+        <description>How will I be forgiven?</description>
         <pietyOffset>-15</pietyOffset>
       </li>
     </stages>
@@ -38,31 +38,31 @@
     <defName>RoR_PietyWeaponKillGood</defName>
     <label>weapon kill</label>
     <description>increase piety</description>
-    <durationDays>1</durationDays>
+    <durationDays>2</durationDays>
     <stages>
       <li>
-        <label>kill with a {0}</label>
-        <description>feels good</description>
+        <label>killed with a {0}</label>
+        <description>This death was holy</description>
         <pietyOffset>3</pietyOffset>
       </li>
       <li>
-        <label>kill with a {0}</label>
-        <description>feels good</description>
-        <pietyOffset>5</pietyOffset>
+        <label>killed with a {0}</label>
+        <description>I hope this will please my god</description>
+        <pietyOffset>6</pietyOffset>
       </li>
       <li>
-        <label>kill with a {0}</label>
-        <description>feels good</description>
-        <pietyOffset>7</pietyOffset>
+        <label>killed with a {0}</label>
+        <description>This blood shall make me blessed</description>
+        <pietyOffset>9</pietyOffset>
       </li>
       <li>
-        <label>kill with a {0}</label>
-        <description>feels good</description>
-        <pietyOffset>10</pietyOffset>
+        <label>killed with a {0}</label>
+        <description>My wrath is holy</description>
+        <pietyOffset>12</pietyOffset>
       </li>
       <li>
-        <label>kill with a {0}</label>
-        <description>feels good</description>
+        <label>killed with a {0}</label>
+        <description>The divine are all powerful</description>
         <pietyOffset>15</pietyOffset>
       </li>
     </stages>

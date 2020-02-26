@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseHolyBuildingMain">
     <defName>Totem</defName>
     <label>Totem</label>
-    <description>A totem is a spirit being, sacred object, or symbol that serves as an emblem of a group of people, such as a family, clan, lineage, or tribe.</description>   
+    <description>A totem is a spirit being, sacred object, or symbol that serves as an emblem of a group of people, such as a family, clan, lineage, or tribe. This can be linked to the worship spot or the sacrifice altar when using a compatible religion.</description>   
     <rotatable>false</rotatable>	
     <graphicData>
       <texPath>Things/Religion/Totem</texPath>
@@ -40,7 +40,7 @@
   <ThingDef ParentName="BaseHolyBuildingMain">
     <defName>Idol</defName>
     <label>Idol</label>
-    <description>A statue representing a deity to which religious worship is addressed.</description>  
+    <description>A statue representing a deity to which religious worship is addressed. You can link this to the worship spot or the sacrifice altar when using a compatible religion.</description>  
     <rotatable>false</rotatable>	
     <graphicData>
       <texPath>Things/Religion/Idol</texPath>

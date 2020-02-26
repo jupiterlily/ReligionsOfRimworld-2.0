@@ -12,7 +12,7 @@
     <defName>WorshipSpot</defName>
     <thingClass>ReligionsOfRimworld.Building_ReligiousBuildingFacility</thingClass>
     <label>worship spot</label>
-    <description>Designates a spot for religion activities.</description>
+    <description>Designates a spot for religion activities. This serves the same purpose as the lectern. You can link this to the totem or the altar with a book.</description>
     <graphicData>
       <texPath>Things/Building/Misc/PartySpot</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -51,7 +51,7 @@
   <ThingDef ParentName="FacilityBase">
     <defName>Lectern</defName>
     <label>Lectern</label>
-    <description>Lectern to read from liturgical books during the divine services.</description>
+    <description>Lectern to read from liturgical books during the divine services, including worships. This can be linked to the altar with a book.</description>
     <graphicData>
       <texPath>Things/Religion/Lectern</texPath>
       <graphicClass>Graphic_Multi</graphicClass>

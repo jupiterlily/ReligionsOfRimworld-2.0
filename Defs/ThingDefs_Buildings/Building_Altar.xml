@@ -2,8 +2,8 @@
 <Defs>
   <ThingDef ParentName="FacilityBase">
     <defName>SacrificeAltar</defName>
-    <label>Sacrifice altar</label>
-    <description>An altar is a structure upon which offerings such as sacrifices are made for religious purposes.</description>   
+    <label>Sacrifice Altar</label>
+    <description>An altar is a structure upon which offerings, such as sacrifices, are made for religious purposes. You can link this with the totem.</description>   
     <graphicData>
       <texPath>Things/Religion/Altar</texPath>
       <graphicClass>Graphic_Multi</graphicClass>

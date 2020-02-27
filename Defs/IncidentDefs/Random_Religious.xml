@@ -11,9 +11,10 @@
       <li>Map_RaidBeacon</li>
       <li>Caravan</li>
     </targetTags>
-    <letterText>had a povidence and now believes in</letterText>
+    <!-- @basrab I'm not sure if this is the right way to get this label to display. Please correct if I'm wrong-->
+    <letterText>{0} has seen the care and guidance of the divine over the creatures of this world and now has faith</letterText>
     <letterDef>NeutralEvent</letterDef>
-    <label>providence</label>
-    <letterLabel>Providence</letterLabel>
+    <label>Providence</label>
+    <letterLabel>Religious Epiphany</letterLabel>
   </IncidentDef>	  
 </Defs>

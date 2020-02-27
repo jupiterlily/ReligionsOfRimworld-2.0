@@ -5,33 +5,33 @@
     <label>eat food</label>
     <description>decrease mood</description>
     <showBubble>true</showBubble>
-    <durationDays>1</durationDays>
+    <durationDays>2</durationDays>
     <stackLimit>5</stackLimit>
     <stages>
       <li>
-        <label>ingest holy food</label>
+        <label>ate forbidden food</label>
         <description>sad</description>
-        <baseMoodEffect>-3</baseMoodEffect>
+        <baseMoodEffect>-1</baseMoodEffect>
       </li>
       <li>
-        <label>ingest holy food</label>
+        <label>ate forbidden food</label>
         <description>sad</description>
-        <baseMoodEffect>-5</baseMoodEffect>
+        <baseMoodEffect>-4</baseMoodEffect>
       </li>
       <li>
-        <label>ingest holy food</label>
+        <label>ate forbidden food</label>
         <description>sad</description>
         <baseMoodEffect>-7</baseMoodEffect>
       </li>
       <li>
-        <label>ingest holy food</label>
+        <label>ate forbidden food</label>
         <description>sad</description>
         <baseMoodEffect>-10</baseMoodEffect>
       </li>
       <li>
-        <label>ingest holy food</label>
+        <label>ate forbidden food</label>
         <description>sad</description>
-        <baseMoodEffect>-15</baseMoodEffect>
+        <baseMoodEffect>-12</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>
@@ -45,29 +45,29 @@
     <stackLimit>5</stackLimit>
     <stages>
       <li>
-        <label>ingest holy food</label>
+        <label>ate holy food</label>
         <description>happy</description>
-        <baseMoodEffect>3</baseMoodEffect>
+        <baseMoodEffect>2</baseMoodEffect>
       </li>
       <li>
-        <label>ingest holy food</label>
+        <label>ate holy food</label>
         <description>happy</description>
-        <baseMoodEffect>5</baseMoodEffect>
+        <baseMoodEffect>4</baseMoodEffect>
       </li>
       <li>
-        <label>ingest holy food</label>
+        <label>ate holy food</label>
         <description>happy</description>
-        <baseMoodEffect>7</baseMoodEffect>
+        <baseMoodEffect>6</baseMoodEffect>
       </li>
       <li>
-        <label>ingest holy food</label>
+        <label>ate holy food</label>
+        <description>happy</description>
+        <baseMoodEffect>8</baseMoodEffect>
+      </li>
+      <li>
+        <label>ate holy food</label>
         <description>happy</description>
         <baseMoodEffect>10</baseMoodEffect>
-      </li>
-      <li>
-        <label>ingest holy food</label>
-        <description>happy</description>
-        <baseMoodEffect>15</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>

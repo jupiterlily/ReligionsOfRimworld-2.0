@@ -4,7 +4,7 @@
   <DesignationCategoryDef>
     <defName>ReligionBuildings</defName>
     <label>religion</label>
-    <description>Things for colonists piety</description>
+    <description>Things for colony worship</description>
     <order>225</order>
     <specialDesignatorClasses>
       <!--<li>Religion.Designator_ReligionSacrifice</li>-->

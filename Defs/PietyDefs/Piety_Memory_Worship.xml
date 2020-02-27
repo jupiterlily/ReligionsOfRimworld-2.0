@@ -3,28 +3,28 @@
   <ReligionsOfRimworld.PietyDef>
     <defName>RoR_PietyWorshipSmall</defName>
     <label>worship</label>
-    <description>small piety increasing</description>
+    <description>small piety increase</description>
     <durationDays>1</durationDays>
     <stages>
       <li>
         <label>did a {0}</label>
         <description>feels good</description>
-        <pietyOffset>1</pietyOffset>
+        <pietyOffset>2</pietyOffset>
       </li>
       <li>
         <label>did a {0}</label>
         <description>feels good</description>
-        <pietyOffset>3</pietyOffset>
+        <pietyOffset>4</pietyOffset>
       </li>
       <li>
         <label>did a {0}</label>
         <description>feels good</description>
-        <pietyOffset>5</pietyOffset>
+        <pietyOffset>6</pietyOffset>
       </li>
       <li>
         <label>did a {0}</label>
         <description>feels good</description>
-        <pietyOffset>7</pietyOffset>
+        <pietyOffset>8</pietyOffset>
       </li>
       <li>
         <label>did a {0}</label>
@@ -37,7 +37,7 @@
   <ReligionsOfRimworld.PietyDef>
     <defName>RoR_PietyWorshipAverage</defName>
     <label>worship</label>
-    <description>average piety increasing</description>
+    <description>average piety increase</description>
     <durationDays>1</durationDays>
     <stages>
       <li>
@@ -48,17 +48,17 @@
       <li>
         <label>did a {0}</label>
         <description>feels good</description>
-        <pietyOffset>5</pietyOffset>
+        <pietyOffset>6</pietyOffset>
       </li>
       <li>
         <label>did a {0}</label>
         <description>feels good</description>
-        <pietyOffset>7</pietyOffset>
+        <pietyOffset>9</pietyOffset>
       </li>
       <li>
         <label>did a {0}</label>
         <description>feels good</description>
-        <pietyOffset>10</pietyOffset>
+        <pietyOffset>12</pietyOffset>
       </li>
       <li>
         <label>did a {0}</label>
@@ -71,23 +71,18 @@
   <ReligionsOfRimworld.PietyDef>
     <defName>RoR_PietyWorshipGreat</defName>
     <label>worship</label>
-    <description>large piety increasing</description>
+    <description>large piety increase</description>
     <durationDays>1</durationDays>
     <stages>
       <li>
         <label>did a {0}</label>
         <description>feels good</description>
-        <pietyOffset>5</pietyOffset>
+        <pietyOffset>4</pietyOffset>
       </li>
       <li>
         <label>did a {0}</label>
         <description>feels good</description>
-        <pietyOffset>7</pietyOffset>
-      </li>
-      <li>
-        <label>did a {0}</label>
-        <description>feels good</description>
-        <pietyOffset>10</pietyOffset>
+        <pietyOffset>9</pietyOffset>
       </li>
       <li>
         <label>did a {0}</label>
@@ -97,7 +92,12 @@
       <li>
         <label>did a {0}</label>
         <description>feels good</description>
-        <pietyOffset>20</pietyOffset>
+        <pietyOffset>18</pietyOffset>
+      </li>
+      <li>
+        <label>did a {0}</label>
+        <description>feels good</description>
+        <pietyOffset>22</pietyOffset>
       </li>
     </stages>
   </ReligionsOfRimworld.PietyDef>

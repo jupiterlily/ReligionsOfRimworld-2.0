@@ -6,7 +6,7 @@
     <needClass>ReligionsOfRimworld.Need_Pray</needClass>
     <description>Prayers increase piety. For the characters to pray, there must be a holy building in the colony.</description>
     <minIntelligence>Humanlike</minIntelligence>
-    <seekerFallPerHour>0.125</seekerFallPerHour>
+    <seekerFallPerHour>0.075</seekerFallPerHour>
     <listPriority>455</listPriority>
     <showOnNeedList>false</showOnNeedList>
   </NeedDef>

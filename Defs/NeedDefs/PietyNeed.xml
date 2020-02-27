@@ -6,8 +6,8 @@
     <needClass>ReligionsOfRimworld.Need_Piety</needClass>
     <description>Piety represents how devout someone is. A religious character with low piety will be unhappy.</description>
     <minIntelligence>Humanlike</minIntelligence>
-    <seekerRisePerHour>0.0027</seekerRisePerHour>
-    <seekerFallPerHour>0.0027</seekerFallPerHour>
+    <seekerRisePerHour>0.005</seekerRisePerHour>
+    <seekerFallPerHour>0.005</seekerFallPerHour>
     <listPriority>450</listPriority>
     <showOnNeedList>false</showOnNeedList>
   </NeedDef>

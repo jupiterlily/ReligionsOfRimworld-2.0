@@ -14,22 +14,22 @@
       <li>
         <label>prayed</label>
         <description>I feel more connected to my god</description>
-        <pietyOffset>3</pietyOffset>
+        <pietyOffset>2</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
         <description>It's good to show my devotion</description>
-        <pietyOffset>5</pietyOffset>
+        <pietyOffset>3</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
         <description>Our connection is sacred</description>
-        <pietyOffset>7</pietyOffset>
+        <pietyOffset>4</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
         <description>I speak to the divine and they talk back</description>
-        <pietyOffset>9</pietyOffset>
+        <pietyOffset>5</pietyOffset>
       </li>
     </stages>
   </ReligionsOfRimworld.PietyDef>
@@ -38,7 +38,7 @@
     <defName>RoR_PietyPrayAverage</defName>
     <label>pray</label>
     <description>average piety increase</description>
-    <durationDays>3</durationDays>
+    <durationDays>2</durationDays>
     <stages>
       <li>
         <label>prayed</label>
@@ -48,22 +48,22 @@
       <li>
         <label>prayed</label>
         <description>My faith will be rewarded</description>
-        <pietyOffset>5</pietyOffset>
+        <pietyOffset>4</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
         <description>I feel truly blessed</description>
-        <pietyOffset>8</pietyOffset>
+        <pietyOffset>6</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
         <description>I am connected to the celestial</description>
-        <pietyOffset>11</pietyOffset>
+        <pietyOffset>8</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
         <description>I have been annointed by the divine</description>
-        <pietyOffset>14</pietyOffset>
+        <pietyOffset>10</pietyOffset>
       </li>
     </stages>
   </ReligionsOfRimworld.PietyDef>
@@ -72,7 +72,7 @@
     <defName>RoR_PietyPrayGreat</defName>
     <label>pray</label>
     <description>large piety increase</description>
-    <durationDays>5</durationDays>
+    <durationDays>3</durationDays>
     <stages>
       <li>
         <label>prayed</label>
@@ -82,22 +82,22 @@
       <li>
         <label>prayed</label>
         <description>These words are beautiful</description>
-        <pietyOffset>8</pietyOffset>
+        <pietyOffset>6</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
         <description>The words of the divine are sacred to me</description>
-        <pietyOffset>12</pietyOffset>
+        <pietyOffset>9</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
         <description>These words are hallowed</description>
-        <pietyOffset>17</pietyOffset>
+        <pietyOffset>12</pietyOffset>
       </li>
       <li>
         <label>prayed</label>
         <description>I'm in a state of total awe</description>
-        <pietyOffset>21</pietyOffset>
+        <pietyOffset>15</pietyOffset>
       </li>
     </stages>
   </ReligionsOfRimworld.PietyDef>
